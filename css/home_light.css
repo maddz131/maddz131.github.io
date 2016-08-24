@@ -1555,7 +1555,9 @@
 	}
 
 /* Basic */
-
+	title{
+		color: #222729
+	}
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
