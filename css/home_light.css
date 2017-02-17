@@ -1730,10 +1730,7 @@
 			height: 150px;/*48*/
 			background: #f00;
 		}
-			.image.avatar48{
- -				width: 150px;
- -				height: 150px;
- -			}
+			
 
 		.image.fit {
 			display: block;
@@ -2115,7 +2112,7 @@
 /* Footer */
 
 	#footer {
-		margin-left: 375px;
+		margin-left: 300px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 3em 0 4em 0;
