@@ -1726,17 +1726,10 @@
 		}
 
 		.image.avatar48 {
-			width: 100px;/*48*/
-			height: 100px;/*48*/
+			width: 150px;/*48*/
+			height: 150px;/*48*/
 			background: #f00;
-			display:block;
-			padding: 10px 0 0 10px;
 		}
-
-			.image.avatar48{
-				width: 150px;
-				height: 150px;
-			}
 
 		.image.fit {
 			display: block;
