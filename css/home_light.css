@@ -1729,6 +1729,7 @@
 			width: 100px;/*48*/
 			height: 100px;/*48*/
 			background: #f00;
+			display:block;
 		}
 
 			.image.avatar48{
