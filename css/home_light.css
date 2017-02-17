@@ -1730,6 +1730,10 @@
 			height: 150px;/*48*/
 			background: #f00;
 		}
+			.image.avatar48{
+ -				width: 150px;
+ -				height: 150px;
+ -			}
 
 		.image.fit {
 			display: block;
@@ -2011,7 +2015,7 @@
 		#header .top {
 			position: absolute;
 			left: 0;
-			top: 0;
+			top: 20;
 			width: 100%;
 		}
 
