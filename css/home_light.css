@@ -1730,6 +1730,7 @@
 			height: 100px;/*48*/
 			background: #f00;
 			display:block;
+			padding: 10px 0 0 10px;
 		}
 
 			.image.avatar48{
